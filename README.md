@@ -7,4 +7,4 @@ Dataset: [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indi
 
 
 **Machine Learning Canvas:**
-![alt text](https://raw.githubusercontent.com/bhardwajchetna/Diabetes_Prediction_Model/blob/main/Machine%20Learning%20Canvas.jpg)
+![**Machine Learning Canvas:**](https://raw.githubusercontent.com/bhardwajchetna/Diabetes_Prediction_Model/main/Machine%20Learning%20Canvas.jpg)
